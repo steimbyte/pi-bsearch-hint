@@ -1,0 +1,8 @@
+{
+  "name": "pi-bsearch-hint",
+  "version": "1.0.0",
+  "description": "Injects bsearch CLI hint when search-related keywords detected",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
