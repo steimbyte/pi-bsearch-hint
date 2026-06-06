@@ -43,3 +43,9 @@ google "how to learn rust"
 ## License
 
 MIT
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
